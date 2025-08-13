@@ -1,24 +1,20 @@
 <style>
   @font-face {
     font-family: 'LedPanelStationOn';
-    src: url('/fonts/LedPanelStationOn.ttf') format('truetype');
+    src: url('{{ "fonts/LedPanelStationOn.ttf" | absURL }}') format('truetype');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
   }
 
+  /* Only the site title */
   .header .logo > a:first-child {
-    font-family: 'LedPanelStationOn', sans-serif;
-    color: #ffb300 !important; /* station amber */
-    font-size: 2rem; /* adjust as needed */
+    font-family: 'LedPanelStationOn', system-ui, sans-serif;
+    color: #ffb300 !important;
   }
 
-  .header .logo > a:first-child:hover {
-    opacity: 0.85;
-  }
-
-  /* Keep EN/ES links white */
+  /* Keep EN/ES white */
   .header .logo a:not(:first-child) {
     color: #ffffff !important;
-    font-family: inherit;
   }
 </style>
