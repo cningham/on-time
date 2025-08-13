@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Intro on Madrid Away</title>
+    <link>//localhost:1313/tags/intro/</link>
+    <description>Recent content in Intro on Madrid Away</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Aug 2025 18:30:00 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/intro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Madrid Away</title>
+      <link>//localhost:1313/posts/welcome/</link>
+      <pubDate>Tue, 12 Aug 2025 18:30:00 +0100</pubDate>
+      <guid>//localhost:1313/posts/welcome/</guid>
+      <description>&lt;p&gt;This is &lt;strong&gt;Madrid Away&lt;/strong&gt; — smart football writing with a clear point of view.
+Short, sharp analysis and opinion, mostly on LaLiga and the Premier League.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

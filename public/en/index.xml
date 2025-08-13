@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>On time</title>
+    <link>//localhost:1313/en/</link>
+    <description>Recent content on On time</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Aug 2025 10:00:00 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Premier League runs at a loss</title>
+      <link>//localhost:1313/en/posts/perdidas-epl/</link>
+      <pubDate>Wed, 13 Aug 2025 10:00:00 +0100</pubDate>
+      <guid>//localhost:1313/en/posts/perdidas-epl/</guid>
+      <description>&lt;p&gt;This transfer window has produced a familiar picture: the Premier League has shopped where it pleased, with sizeable fees paid not only by the elite but by clubs fighting to avoid relegation. Faced with that imbalance, Javier Tebas has revived a message that friendly media outlets have been quick to amplify: the supposed strength of English football is a fiction propped up by heavy losses and by shareholders “doping” their clubs. At first glance the claim sounds plausible, which is why it spreads. But it confuses the snapshot of a single profit-and-loss statement with the economics of a sector which, in England, is in an investment cycle supported by clear rules and willing capital.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

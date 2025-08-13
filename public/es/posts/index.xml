@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on On time</title>
+    <link>//localhost:1313/es/posts/</link>
+    <description>Recent content in Posts on On time</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 13 Aug 2025 10:00:00 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/es/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Premier League funciona a pérdidas</title>
+      <link>//localhost:1313/es/posts/perdidas-epl/</link>
+      <pubDate>Wed, 13 Aug 2025 10:00:00 +0100</pubDate>
+      <guid>//localhost:1313/es/posts/perdidas-epl/</guid>
+      <description>&lt;p&gt;Este mercado de fichajes ha vuelto a dejar una imagen conocida: la Premier ha comprado donde ha querido, con traspasos elevados que alcanzan tanto a grandes clubes como a equipos que pelean por no descender. Ante esa asimetría de poder, Javier Tebas ha reactivado un mensaje que la prensa afín repite con disciplina, la supuesta fortaleza inglesa sería una ficción sostenida por pérdidas millonarias y por accionistas que dopan a sus clubes. La idea suena razonable a primera vista; por eso cala. Pero confunde la foto contable de un ejercicio con la economía de un sector que, en Inglaterra, está en un ciclo de inversión con reglas y con capital dispuesto a sostenerlo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

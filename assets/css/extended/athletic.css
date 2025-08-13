@@ -1,0 +1,71 @@
+/* ----- Header: pitch black ----- */
+.header, .nav, .nav .logo a {
+  background: #000 !important;
+  color: #fff !important;
+}
+.nav a, .logo a {
+  color: #fff !important;
+  text-decoration: none;
+}
+.nav a:hover, .nav .active {
+  opacity: 0.8;
+}
+
+/* ----- Page background & content width ----- */
+body {
+  background: #1e1e1e;          /* dark grey around the content */
+}
+.main {
+  max-width: 720px;              /* readable column */
+}
+
+/* ----- Card/Article surfaces ----- */
+.post, .single .page, .page-list, .archive-year, .archive-month {
+  background: #2a2a2a;           /* slightly lighter than body */
+  border-radius: 6px;
+  padding: 1.25rem;
+}
+
+/* ----- Text contrast (light theme) ----- */
+:root {
+  --theme: #ffffff;              /* PaperMod text base */
+  --entry: #2a2a2a;              /* article surface */
+  --primary: #ffffff;            /* main text */
+  --secondary: #cccccc;          /* meta text */
+  --tertiary: #9a9a9a;           /* subtle */
+  --link-color: #d6d6d6;         /* links in body */
+}
+
+/* Links inside content */
+.post-content a {
+  color: var(--link-color);
+  text-decoration: underline;
+}
+.post-content a:hover {
+  opacity: 0.85;
+}
+
+/* ----- Per-article translation link: make it a button ----- */
+.post-meta .translations, .post-meta .i18n-links {
+  display: inline-flex;
+  gap: .5rem;
+}
+.post-meta .translations a, .post-meta .i18n-links a {
+  padding: 2px 8px;
+  border: 1px solid #444;
+  border-radius: 4px;
+  background: #111;
+  color: #eee !important;
+  text-decoration: none !important;
+  font-size: .9rem;
+}
+.post-meta .translations a:hover, .post-meta .i18n-links a:hover {
+  border-color: #666;
+}
+
+/* ----- Footer minimal ----- */
+.footer {
+  background: transparent;
+  color: #9a9a9a;
+}
+.nav-links a { margin-left: 12px; }

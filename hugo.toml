@@ -1,0 +1,34 @@
+baseURL = "/"
+languageCode = "es"
+defaultContentLanguage = "es"
+defaultContentLanguageInSubdir = true
+title = "On time"
+theme = "PaperMod"
+
+[pagination]
+  pagerSize = 10
+
+[languages]
+  [languages.es]
+    languageName = "Español"
+    weight = 1
+    contentDir = "content/es"
+
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    contentDir = "content/en"
+
+
+[params]
+  defaultTheme = "dark"
+  ShowReadingTime = true
+  disableThemeToggle = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  hideFooter = false
+  comments = true
+  author = "Cunningham"
+
